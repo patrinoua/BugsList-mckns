@@ -1,6 +1,6 @@
 Fullstack App made to report posts 
 
-![Screenshot](https://github.com/patrinoua/BugsList/blob/master/screenshot.png)
+![Screenshot](https://github.com/patrinoua/BugsList/blob/master/Screenshot.png)
 ---------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
