@@ -1,6 +1,6 @@
-A simple todo list made with React, using Hooks and Styled Components
+Fullstack App made to report posts 
 
-![Screenshot](https://github.com/patrinoua/weve_todo_list/blob/master/React-to-do.png)
+![Screenshot](https://github.com/patrinoua/BugsList/blob/master/screenshot.png)
 ---------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
