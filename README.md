@@ -4,6 +4,16 @@ Fullstack App made with React App and Express for the backend to report posts.
 ![Screenshot](https://github.com/patrinoua/BugsList/blob/master/Screenshot.png)
 ---------
 
+To start install all dependencies on root and client and then run:
+
+```
+nodemon server.js
+```
+and on a different terminal
+```
+cd client
+npm start
+```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
