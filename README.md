@@ -1,4 +1,4 @@
-Fullstack App made with React App and Express for the backend to report posts.
+Fullstack App (Client and Server) made with React App and Express for the backend to report posts.
 
 
 ![Screenshot](https://github.com/patrinoua/BugsList/blob/master/Screenshot.png)
