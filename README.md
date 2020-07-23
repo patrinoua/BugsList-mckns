@@ -15,7 +15,7 @@ and client
 cd client
 npm i
 ```
-and then run:
+and then run on root
 
 ```
 nodemon server.js
