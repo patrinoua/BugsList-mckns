@@ -4,7 +4,18 @@ Fullstack App (Client and Server) made with React App and Express for the backen
 ![Screenshot](https://github.com/patrinoua/BugsList/blob/master/Screenshot.png)
 ---------
 
-To start install all dependencies on root and client and then run:
+To start install all dependencies on root 
+```
+npm i
+```
+
+and client 
+
+```
+cd client
+npm i
+```
+and then run:
 
 ```
 nodemon server.js
